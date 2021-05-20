@@ -215,6 +215,7 @@ a:hover {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bib {
   font-family: 'Courier New', monospace;
+  font-size: 11px;
   word-wrap: break-word;
   white-space: pre-wrap;
 }
